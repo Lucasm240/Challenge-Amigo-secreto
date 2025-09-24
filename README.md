@@ -1,5 +1,5 @@
-🎁 Proyecto: Sorteo de Amigo Secreto
-¡Bienvenido al proyecto de Sorteo de Amigo Secreto! Esta es una aplicación web sencilla y efectiva diseñada para realizar sorteos de forma rápida y justa. Es perfecta para usar en reuniones, fiestas o entre amigos.
+🎁 Challenge del Amigo Secreto
+¡Bienvenido al Challenge Amigo Secreto! Esta es una aplicación web sencilla y efectiva diseñada para realizar sorteos de forma rápida y justa. Es perfecta para usar en reuniones, fiestas o entre amigos.
 
 Características Principales
 Añadir Nombres: Agrega a todos los participantes al sorteo de manera dinámica.
